@@ -13,7 +13,7 @@
 </pre>
 
 <pre>
-<code>
+<code>{
     <key>key</key>(<string>value</string>)
     <key>key</key>(<boolean>false</boolean>)
     <key>key</key>(<boolean>true</boolean>)
@@ -21,5 +21,5 @@
     <comment>/*
     This is a comment
     */</comment>
-</code>
+}</code>
 </pre>
