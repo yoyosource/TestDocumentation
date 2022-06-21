@@ -11,3 +11,15 @@
     */</span>
 }</code>
 </pre>
+
+<pre>
+<code>
+    <key>key</key>(<string>value</string>)
+    <key>key</key>(<boolean>false</boolean>)
+    <key>key</key>(<boolean>true</boolean>)
+    <key>key</key>(<number>0</number>)
+    <comment>/*
+    This is a comment
+    */</comment>
+</code>
+</pre>
